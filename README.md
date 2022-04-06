@@ -8,6 +8,6 @@
 
 Блок-схема к задаче находится в репозитории под названием Scheme.drawio
 
-![Scheme](Scheme.drawio.png)
+
 
 
